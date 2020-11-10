@@ -1,7 +1,7 @@
 {
   "env": {
     "MONGO_USER": "annparandiy",
-    "MONGO_PASSWORD": "AFhrUuaaqW3i8Zv3",
+    "MONGO_PASSWORD": "5yrWsKWIcZmqhHgK",
     "MONGO_DEFAULT_DATABASE": "test",
     "STRIPE_KEY": "sk_test_2B8u4zLpn0m4R6QbOD7kjtwT00z7tQyvaW"
   }
